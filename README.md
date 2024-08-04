@@ -4,7 +4,7 @@
 <br>
 <br>
 <h2>II. Advantages :</h2><br>
-<br>
+
 1. Gain: Two-stage op-amps offer improved gain.<br>
 2. Bandwidth: Two-stage op-amps have a wider bandwidth.<br>
 3. Output voltage swing: Two-stage op-amps have an increased output voltage swing.<br>
