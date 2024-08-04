@@ -2,7 +2,7 @@
 <br>
 <h2>I. Introduction :</h2><br>Two-stage operational amplifiers are the most common used multistage amplifier because it can provide high gain and high output swing. However, an uncompensated two-stage operational amplifier has a two-pole transfer function, and these are located below the unity gain frequency.
 <br>
-<br>
+<BR>
 <h2>II. Advantages :</h2><br>
 
 1. Gain: Two-stage op-amps offer improved gain.<br>
